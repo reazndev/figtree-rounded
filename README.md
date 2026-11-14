@@ -4,4 +4,4 @@ A rounded version of [Figtree](https://github.com/erikdkennedy/figtree) by Erik 
 
 See it in use at [ruu.by](https://ruu.by).
 
-Seven weights from Light to Black, each with an italic, as WOFF2. Licensed under the [SIL Open Font License 1.1](LICENSE), like the original.
+Seven weights from Light to Black, each with an italic. Use `fonts/ttf` for desktop apps and Figma, and `fonts/woff2` for the web. Licensed under the [SIL Open Font License 1.1](LICENSE), like the original.
