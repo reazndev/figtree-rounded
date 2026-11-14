@@ -1,6 +1,6 @@
 # Figtree Rounded
 
-A rounded version of [Figtree](https://github.com/erikdkennedy/figtree) by Erik Kennedy. I love Figtree, but I wanted softer corners.
+A rounded version of [Figtree](https://github.com/erikdkennedy/figtree) by Erik Kennedy, all credit goes to him. I love Figtree, but round corners are also very nice :)
 
 See it in use at [ruu.by](https://ruu.by).
 
